@@ -5,12 +5,12 @@
 #define PROJECT_NAME "function"
 
 /* Prototypes for all the test functions */
-void test_factorial(int);
-void test_prime(int);
 void test_add(void);
 void test_subtract(void);
 void test_multiply(void);
 void test_divide(void);
+void test_factorial(int);
+void test_prime(int);
 
 
 /* Start of the application test */
